@@ -24,3 +24,8 @@ function squareDigits(num) {
 
 squareDigits(9119)
 ```
+### Education
+* Belarusian State University Faculty of Radiophysics and Computer Technologies Department of System Analysis and Computer Simulation
+
+### English
+My english level is at least at B2, according to online tests. I didn't travel much so the only english practice I have is online games.
