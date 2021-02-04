@@ -5,4 +5,16 @@ body {
   background: linear-gradient(#ff6000, #fcbc40);
 }
 
+header {
+  position: relative;
+}
+
+.pfp {
+  position: absolute;
+  top: 0;
+  left: 1000px;
+  width: 300px;
+  height: auto;
+}
+
 footer p { text-align: center; }
