@@ -2,6 +2,7 @@
 
 ## Contact information
 Discord: *Nikita (@retiredhedgehog)* | *Retired Hedgehog#5543*
+
 Email: *Lukashov9999@gmail.com*
 
 ## Summary
@@ -28,7 +29,7 @@ An inquisitive young man, I have a great interest in a wide range of things and 
 
 **From 2021-08-01 to present** - software engineer at PTUE “Ларченко” by distribution after studying at the Belarusian State University
 
-*Main responsibilities:
+*Main responsibilities:*
 + hardware and software support
 + development of macros for Excel in the VBA programming language
 
